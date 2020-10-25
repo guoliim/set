@@ -2,6 +2,8 @@
 #!desc=dns server for local host name
 
 [Host]
+*.hupu.com = server:https://dns.alidns.com/dns-query
+*.bilivideo.com = server:https://dns.alidns.com/dns-query
 *.cn = server:https://dns.alidns.com/dns-query
 qhres.com = server:https://dns.alidns.com/dns-query
 *.qhres.com = server:https://dns.alidns.com/dns-query
