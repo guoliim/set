@@ -1,6 +1,0 @@
-#!name=apple OCSP server
-#!desc=disable apple OCSP server
-
-[Rule]
-DOMAIN,ocsp.apple.com,REJECT
-DOMAIN,ocsp.g.aaplimg.com,REJECT
