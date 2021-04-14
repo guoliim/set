@@ -2,6 +2,7 @@
 #!desc=dns server for local host name
 
 [Host]
+*.chinamobile.com = server:https://dns.alidns.com/dns-query
 *.cmpay.com = server:https://dns.alidns.com/dns-query
 *.mob.com = server:https://dns.alidns.com/dns-query
 *.hupu.com = server:https://dns.alidns.com/dns-query
