@@ -2,6 +2,7 @@
 #!desc=dns server for local host name
 
 [Host]
+*.docker.io = server:https://dns.alidns.com/dns-query
 *.tuniu.com = server:https://dns.alidns.com/dns-query
 *.tuniucdn.com = server:https://dns.alidns.com/dns-query
 *.chinamobile.com = server:https://dns.alidns.com/dns-query
