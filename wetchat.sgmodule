@@ -1,0 +1,6 @@
+#!name=wechat
+#!desc=privacy block
+
+[Rule]
+DOMAIN,dns.weixin.qq.com,REJECT
+IP-CIDR,109.244.0.0/16,REJECT
