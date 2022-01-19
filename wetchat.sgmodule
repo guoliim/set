@@ -3,4 +3,5 @@
 
 [Rule]
 DOMAIN,dns.weixin.qq.com,REJECT
+DOMAIN,dns.weixin.qq.com.cn,REJECT
 IP-CIDR,109.244.0.0/16,REJECT,no-resolve
