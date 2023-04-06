@@ -4,7 +4,6 @@
 [Rule]
 DOMAIN,gochitchat.ai,OPENAI
 DOMAIN,challenges.cloudflare.com,OpenAI
-DOMAIN,openaiapi-site.azureedge.net,OpenAI
 DOMAIN-SUFFIX,openai.com,OpenAI
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net,OpenAI
 DOMAIN-SUFFIX,identrust.com,OpenAI
