@@ -9,3 +9,5 @@ DOMAIN-SUFFIX,identrust.com,OpenAI
 DOMAIN-SUFFIX,auth0.com,OpenAI
 DOMAIN-SUFFIX,strip.com,OpenAI
 DOMAIN-SUFFIX,stripcdn.com,OpenAI
+DOMAIN-SUFFIX,oaistatic.com,OpenAI
+DOMAIN-SUFFIX,oaiusercontent.com,OpenAI
