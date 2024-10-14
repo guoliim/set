@@ -12,3 +12,6 @@ DOMAIN-SUFFIX,stripcdn.com,OpenAI
 DOMAIN-SUFFIX,oaistatic.com,OpenAI
 DOMAIN-SUFFIX,oaiusercontent.com,OpenAI
 DOMAIN-SUFFIX,chatgpt.com,OpenAI
+DOMAIN-SUFFIX,stripe.com,OpenAI
+DOMAIN-SUFFIX,featureassets.org,OpenAI
+DOMAIN-SUFFIX,prodregistryv2.org,OpenAI
